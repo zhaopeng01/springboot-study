@@ -56,3 +56,9 @@ Thymeleaf的语法更加接近HTML,并且具有很高的扩展性
 在mybatis中用到了简单的增加和查询
 查询使用的是分页插件来返回查询数据的
 
+### study10
+在SpringBoot中整合Lettuce Redis
+
+一种是通过StringRedisTemplate对key和value都为String类型的数据进行添加,
+一种是通过自定义模板对key和value都为Object类型数据接添加使用
+
