@@ -62,3 +62,7 @@ Thymeleaf的语法更加接近HTML,并且具有很高的扩展性
 一种是通过StringRedisTemplate对key和value都为String类型的数据进行添加,
 一种是通过自定义模板对key和value都为Object类型数据接添加使用
 
+### study11
+在SpringBoot中整合 定时调度
+
+通过spring-task来进行定时调度的操作,类似于一个轻量级的Quartz,而且使用起来简单方便
