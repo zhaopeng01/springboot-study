@@ -82,3 +82,7 @@ Thymeleaf的语法更加接近HTML,并且具有很高的扩展性
 
 将本地安装kafka后然后在代码中整合使用kafka,然后结合自己逻辑完成需要的需求
 
+### study15
+在SpringBoot中整合ActiveMq使用
+
+将本地安装ActiveMq,然后在代码中整合使用ActiveMq,讲述ActiveMq的点对点模式和发布/订阅模式的使用以及再多个消费者和订阅者模式情况下两种模式的处理方式
